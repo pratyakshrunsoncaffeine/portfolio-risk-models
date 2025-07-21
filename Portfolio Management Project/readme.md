@@ -4,7 +4,7 @@ This project explores the fundamental concepts and practical implementation of p
 
 ---
 
-## 📌 Project Scope
+## Project Scope
 
 The following key concepts and tools are demonstrated:
 
