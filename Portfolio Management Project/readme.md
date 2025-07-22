@@ -41,7 +41,6 @@ The following key concepts and tools are demonstrated:
 
 ##  Planned Enhancements (In Progress)
 ###  Portfolio Optimization with Constraints
-- Use `scipy.optimize` to:
   - Maximize Sharpe Ratio with constraints
   - No shorting (weights ≥ 0)
   - Max 30% allocation per asset
