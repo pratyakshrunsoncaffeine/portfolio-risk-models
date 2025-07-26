@@ -85,7 +85,7 @@ The following key concepts and tools are demonstrated:
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 - Strong understanding of portfolio theory and financial modeling
 - Hands-on application of Python in finance
